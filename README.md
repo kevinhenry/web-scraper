@@ -15,7 +15,7 @@ NOTE: you don’t have to understand all of the code in the tutorial yet. Get it
 
 ## Feature Tasks and Requirements
 [x] Scrape a Wikipedia page and record which passages need citations.
-    - [x] E.g. History of Mexico has 7 “citation needed” cases, as of this writing.
+- [x] E.g. History of Mexico has 7 “citation needed” cases, as of this writing.
 [x] Your web scraper should report the number of citations needed.
 [x] Your web scraper should identify those cases AND include the relevant passage.
     - [x] E.g. Citation needed for “lorem spam and impsum eggs”
